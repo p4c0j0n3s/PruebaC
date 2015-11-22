@@ -1,4 +1,4 @@
-double f(double d){
+double f2(double d){
 
 	double ddd;
 	

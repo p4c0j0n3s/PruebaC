@@ -1,7 +1,7 @@
 #include <stdio.h>
 //#include "aaa.h"
 
-double f(double);
+double f2(double);
 
 int main(){
 
