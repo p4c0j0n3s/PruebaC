@@ -1,13 +1,16 @@
 #include <stdio.h>
-//#include "aaa.h"
+#include "f2.h"
+#include "f3.h"
 
-double f2(double);
 
 int main(){
 
-	double d = f(5.0);
+	double d = f2(5.0);
+
+	double d3 = f3(10.0);
 
 	printf("%lF\n", d);
+ 	printf("%lF\n", d3);
 	
 }
 
